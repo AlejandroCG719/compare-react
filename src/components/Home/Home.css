@@ -1,0 +1,9 @@
+.hero {
+  background: url("../../assets/logo.png");
+  background-size: cover; }
+
+h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
